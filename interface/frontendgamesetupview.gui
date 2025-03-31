@@ -709,7 +709,7 @@ guiTypes = {
 
 		containerWindowType = {
 			name = "backdrop_5"
-			position = { x = 870  y = 45 }
+			position = { x = 869  y = 45 }
 			size = { width = 172  height = 380 }
 			background = { quadTextureSprite = "GFX_tiled_paper_bg2" }
 
