@@ -149,6 +149,13 @@ defined_text = {
 	}
 	
 	text = {
+		trigger = {
+			has_country_leader_ideology = monarchist_socialism_democratic
+		}
+		localization_key = monarchist_socialism_democratic
+	}
+	
+	text = {
 		localization_key = democratic
 	}
 }
@@ -205,9 +212,9 @@ defined_text = {
 	
 	text = {
 		trigger = {
-			has_country_leader_ideology = seia
+			has_country_leader_ideology = VKProject
 		}
-		localization_key = seia
+		localization_key = VKProject
 	}
 	
 	text = {
@@ -438,6 +445,13 @@ defined_text = {
 			has_country_leader_ideology = synarchism
 		}
 		localization_key = synarchism
+	}
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = pure_socialism
+		}
+		localization_key = pure_socialism
 	}
 	
 	text = {
