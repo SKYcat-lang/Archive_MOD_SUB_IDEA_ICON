@@ -66,6 +66,13 @@ defined_text = {
 	
 	text = {
 		trigger = {
+			has_country_leader_ideology = scandinavian_social_democracy
+		}
+		localization_key = scandinavian_social_democracy
+	}
+	
+	text = {
+		trigger = {
 			has_country_leader_ideology = tea_party_ideology
 		}
 		localization_key = tea_party_ideology
@@ -94,9 +101,30 @@ defined_text = {
 	
 	text = {
 		trigger = {
+			has_country_leader_ideology = artnocracy
+		}
+		localization_key = artnocracy
+	}
+	
+	text = {
+		trigger = {
 			has_country_leader_ideology = Cohabitism
 		}
 		localization_key = Cohabitism
+	}
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = culturlic_Integralism
+		}
+		localization_key = culturlic_Integralism
+	}
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = Civil_nationalism
+		}
+		localization_key = Civil_nationalism
 	}
 	
 	text = {
@@ -139,13 +167,6 @@ defined_text = {
 			has_country_leader_ideology = cou_ideology
 		}
 		localization_key = cou_ideology
-	}
-	
-	text = {
-		trigger = {
-			has_country_leader_ideology = mex_christian_democracy
-		}
-		localization_key = mex_christian_democracy
 	}
 	
 	text = {
@@ -254,13 +275,6 @@ defined_text = {
 	
 	text = {
 		trigger = {
-			has_country_leader_ideology = culturlic_Integralism
-		}
-		localization_key = culturlic_Integralism
-	}
-	
-	text = {
-		trigger = {
 			has_country_leader_ideology = police_communism
 		}
 		localization_key = police_communism
@@ -358,6 +372,20 @@ defined_text = {
 	
 	text = {
 		trigger = {
+			has_country_leader_ideology = technocracy_fascism
+		}
+		localization_key = technocracy_fascism
+	}
+	
+	text = {
+		trigger = {
+			has_country_leader_ideology = artnocracy_fascism
+		}
+		localization_key = artnocracy_fascism
+	}
+	
+	text = {
+		trigger = {
 			has_country_leader_ideology = pandemonium
 		}
 		localization_key = pandemonium
@@ -438,13 +466,6 @@ defined_text = {
 			has_country_leader_ideology = criminal_state
 		}
 		localization_key = criminal_state
-	}
-	
-	text = {
-		trigger = {
-			has_country_leader_ideology = synarchism
-		}
-		localization_key = synarchism
 	}
 	
 	text = {
@@ -596,16 +617,16 @@ defined_text = {
 	
 	text = {
 		trigger = {
-			has_country_leader_ideology = mex_corporatism
+			has_country_leader_ideology = decagramaton_neutrality
 		}
-		localization_key = mex_corporatism
+		localization_key = decagramaton_neutrality
 	}
 	
 	text = {
 		trigger = {
-			has_country_leader_ideology = decagramaton_neutrality
+			has_country_leader_ideology = ABYDOS_democracy
 		}
-		localization_key = decagramaton_neutrality
+		localization_key = ABYDOS_democracy
 	}
 	
 	text = {
