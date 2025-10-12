@@ -478,6 +478,55 @@ defined_text = {
 	text = {
 		localization_key = fascism
 	}
+
+	text = {
+		trigger = {
+			has_country_leader_ideology = makotoism_A1
+		}
+		localization_key = makotoism_A1
+	}
+
+	text = {
+		trigger = {
+			has_country_leader_ideology = satsukiism
+		}
+		localization_key = satsukiism
+	}
+
+	text = {
+		trigger = {
+			has_country_leader_ideology = satsukiism_AR
+		}
+		localization_key = satsukiism_AR
+	}
+
+	text = {
+		trigger = {
+			has_country_leader_ideology = satsukiism_AL
+		}
+		localization_key = satsukiism_AL
+	}
+
+	text = {
+		trigger = {
+			has_country_leader_ideology = irohasm_B
+		}
+		localization_key = irohasm_B
+	}
+
+	text = {
+		trigger = {
+			has_country_leader_ideology = harmonism
+		}
+		localization_key = harmonism
+	}
+
+	text = {
+		trigger = {
+			has_country_leader_ideology = transitioning_democracy
+		}
+		localization_key = transitioning_democracy
+	}
 	
 }
 defined_text = {
