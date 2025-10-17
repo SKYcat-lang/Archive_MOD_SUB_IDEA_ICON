@@ -474,10 +474,6 @@ defined_text = {
 		}
 		localization_key = pure_socialism
 	}
-	
-	text = {
-		localization_key = fascism
-	}
 
 	text = {
 		trigger = {
@@ -526,6 +522,10 @@ defined_text = {
 			has_country_leader_ideology = transitioning_democracy
 		}
 		localization_key = transitioning_democracy
+	}
+	
+	text = {
+		localization_key = fascism
 	}
 	
 }
