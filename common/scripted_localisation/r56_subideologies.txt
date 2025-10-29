@@ -491,16 +491,37 @@ defined_text = {
 
 	text = {
 		trigger = {
-			has_country_leader_ideology = satsukiism_AR
+			has_country_leader_ideology = satsukiism_B_1_1
 		}
-		localization_key = satsukiism_AR
+		localization_key = satsukiism_B_1_1
 	}
 
 	text = {
 		trigger = {
-			has_country_leader_ideology = satsukiism_AL
+			has_country_leader_ideology = satsukiism_B_1_2
 		}
-		localization_key = satsukiism_AL
+		localization_key = satsukiism_B_1_2
+	}
+
+	text = {
+		trigger = {
+			has_country_leader_ideology = satsukiism_B_2_1
+		}
+		localization_key = satsukiism_B_2_1
+	}
+
+	text = {
+		trigger = {
+			has_country_leader_ideology = satsukiism_B_2_2
+		}
+		localization_key = satsukiism_B_2_2
+	}
+
+	text = {
+		trigger = {
+			has_country_leader_ideology = satsukiism_makoto_B
+		}
+		localization_key = satsukiism_makoto_B
 	}
 
 	text = {
