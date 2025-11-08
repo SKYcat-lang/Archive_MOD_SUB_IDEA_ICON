@@ -484,6 +484,13 @@ defined_text = {
 
 	text = {
 		trigger = {
+			has_country_leader_ideology = makotoism_B
+		}
+		localization_key = makotoism_B
+	}
+
+	text = {
+		trigger = {
 			has_country_leader_ideology = satsukiism
 		}
 		localization_key = satsukiism
@@ -519,9 +526,23 @@ defined_text = {
 
 	text = {
 		trigger = {
+			has_country_leader_ideology = satsukiism_C_1
+		}
+		localization_key = satsukiism_C_1
+	}
+
+	text = {
+		trigger = {
 			has_country_leader_ideology = satsukiism_makoto_B
 		}
 		localization_key = satsukiism_makoto_B
+	}
+
+	text = {
+		trigger = {
+			has_country_leader_ideology = irohasm_A
+		}
+		localization_key = irohasm_A
 	}
 
 	text = {
